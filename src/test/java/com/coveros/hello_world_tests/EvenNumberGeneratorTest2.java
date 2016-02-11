@@ -6,19 +6,19 @@ import org.junit.Test;
 
 import com.coveros.hello_world.EvenNumberGenerator;
 
-public class EvenNumberGeneratorTest {
+public class EvenNumberGeneratorTest2 {
 
    @Test
 
-   public void testRandomEvenNumberGenerator() { 
+   public void testRandomEvenNumberGenerator2() { 
 
-      int randomResult = 
+      int randomResult2 = 
 
 EvenNumberGenerator.generateRandomEven();
 
       
 
-      assertEquals(0,randomResult%2);
+      assertEquals(0,randomResult2%2);
 
    }
 
