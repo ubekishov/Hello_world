@@ -92,12 +92,12 @@ uploadArchives {
     repositories {
         maven {
           credentials {
-                username "nexusguy"
-                password "julik1988"
+                username "admin"
+                password "admin123"
             }
           
             // change to point to your repo, e.g. http://my.org/repo
-            url "http://ec2-54-210-118-101.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots"
+            url "http://ec2-54-165-174-151.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots"
       }
     }
 }
