@@ -10,7 +10,7 @@ public class OddNumberGeneratorTest {
 
 	      int randomResult2 = 
 
-	OddNumberGenerator.generateRandomOdd();
+	EvenNumberGenerator.generateRandomOdd();
 
 	      
 
