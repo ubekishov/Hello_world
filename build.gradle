@@ -92,8 +92,8 @@ uploadArchives {
     repositories {
         maven {
           credentials {
-                username "admin"
-                password "admin123"
+                username "nexusguy"
+                password "julik1988"
             }
           
             // change to point to your repo, e.g. http://my.org/repo
