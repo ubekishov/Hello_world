@@ -6,7 +6,6 @@ import org.junit.Test;
 
 import com.coveros.hello_world.EvenNumberGenerator;
 
-
 public class OddNumberGeneratorTest {
 	
 	   @Test
