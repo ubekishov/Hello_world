@@ -21,5 +21,17 @@ EvenNumberGenerator.generateRandomEven();
       assertEquals(0,randomResult%2);
 
    }
+   
+   public void testRandomOddNumberGenerator() { 
+
+	      int randomResult2 = 
+
+	EvenNumberGenerator.generateRandomOdd();
+
+	      
+
+	      assertEquals(1,randomResult2%2);
+
+	   }
 
 }
