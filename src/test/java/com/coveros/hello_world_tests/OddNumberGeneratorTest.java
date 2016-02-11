@@ -6,7 +6,7 @@ public class OddNumberGeneratorTest {
 	
 	   @Test
 
-	   public void testRandomEvenNumberGenerator() { 
+	   public void testRandomOddNumberGenerator() { 
 
 	      int randomResult2 = 
 
