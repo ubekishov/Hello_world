@@ -15,7 +15,7 @@ public class EvenNumberGenerator {
 		Random randomGenerator = new Random();
 		int result = randomGenerator.nextInt();
 		
-		if (result%2!=1){
+		if (result%2!=0){
 			result++;
 		}
 		return result;
