@@ -2,6 +2,11 @@ package com.coveros.hello_world_tests;
 
 import static org.junit.Assert.assertEquals;
 
+import org.junit.Test;
+
+import com.coveros.hello_world.EvenNumberGenerator;
+
+
 public class OddNumberGeneratorTest {
 	
 	   @Test
