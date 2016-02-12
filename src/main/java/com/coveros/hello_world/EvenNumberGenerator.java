@@ -1,5 +1,5 @@
 package com.coveros.hello_world;
-/* testing development branch
+/* Full Test
  * 
  */
 import java.util.Random;
