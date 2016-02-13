@@ -1,6 +1,6 @@
 package com.coveros.hello_world;
 /* testing 
- * Payload URL on GIT had to be updated. 
+ * Final test 
  * 
  */
 import java.util.Random;
