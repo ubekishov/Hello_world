@@ -1,6 +1,5 @@
 package com.coveros.hello_world;
 /* testing 
-/* Full Test2
  * Payload URL on GIT had to be updated. 
  * 
  */
