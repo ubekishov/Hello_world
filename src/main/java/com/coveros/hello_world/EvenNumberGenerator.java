@@ -1,6 +1,6 @@
 package com.coveros.hello_world;
 /* testing 
- * test
+ * testing
  * 
  */
 import java.util.Random;
