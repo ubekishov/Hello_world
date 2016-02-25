@@ -5,6 +5,10 @@ package com.coveros.hello_world;
 import java.util.Random;
 
 public class EvenNumberGenerator {
+	private EvenNumberGenerator()
+	{
+		//do nothing
+	}
 	public static int generateRandomEven(){
 		Random randomGenerator = new Random();
 		int result = randomGenerator.nextInt();

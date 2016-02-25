@@ -16,6 +16,5 @@ public class EvenNumberGeneratorTest {
 	      assertEquals(1,Math.abs(randomResult%2));
 
 	   }
-   
-
 }
+
