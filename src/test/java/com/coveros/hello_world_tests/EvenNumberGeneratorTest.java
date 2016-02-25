@@ -13,7 +13,7 @@ public class EvenNumberGeneratorTest {
    @Test
 	   public void testRandomOddNumberGenerator() { 
 	      int randomResult = EvenNumberGenerator.generateRandomOdd();
-	      assertEquals(1,randomResult%2);
+	      assertEquals(1,Math.abs(randomResult%2));
 
 	   }
    
