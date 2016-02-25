@@ -1,5 +1,5 @@
 package com.coveros.hello_world;
-/* Demo Final
+/* Selenium HTML Report
  * 
  */
 import java.util.Random;
