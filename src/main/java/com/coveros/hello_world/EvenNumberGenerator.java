@@ -15,6 +15,9 @@ public class EvenNumberGenerator {
 		if (result%2!=0){
 			result++;
 		}
+		else {
+			//do nothing
+		}
 		return result;
 	}
 	public static int generateRandomOdd(){
@@ -23,6 +26,9 @@ public class EvenNumberGenerator {
 		
 		if (result%2==0){
 			result++;
+		}
+		else {
+			//do nothing
 		}
 		return result;
 	}
